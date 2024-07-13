@@ -1,0 +1,82 @@
+[
+    {
+        "request_type": "Report misconduct / Harassment",
+        "priority": "Urgent"
+    },
+    {
+        "request_type": "Request time off / Vacation",
+        "priority": "Normal Request"
+    },
+    {
+        "request_type": "Equipment malfunction report",
+        "priority": "Normal Request"
+    },
+    {
+        "request_type": "Workplace safety concern",
+        "priority": "Urgent"
+    },
+    {
+        "request_type": "Training/course enrollment request",
+        "priority": "Normal Request"
+    },
+    {
+        "request_type": "Payroll discrepancy report",
+        "priority": "Normal Request"
+    },
+    {
+        "request_type": "Request for flexible working hours",
+        "priority": "Normal Request"
+    },
+    {
+        "request_type": "IT support / Technical issue",
+        "priority": "Normal Request"
+    },
+    {
+        "request_type": "Request for promotion/salary review",
+        "priority": "Normal Request"
+    },
+    {
+        "request_type": "Conflict resolution request",
+        "priority": "Urgent"
+    },
+    {
+        "request_type": "Office supply request",
+        "priority": "Normal Request"
+    },
+    {
+        "request_type": "Facilities maintenance request",
+        "priority": "Normal Request"
+    },
+    {
+        "request_type": "Travel authorization request",
+        "priority": "Normal Request"
+    },
+    {
+        "request_type": "Request for additional staff/resources",
+        "priority": "Normal Request"
+    },
+    {
+        "request_type": "Health and wellness program enrollment",
+        "priority": "Normal Request"
+    },
+    {
+        "request_type": "Remote work request",
+        "priority": "Normal Request"
+    },
+    {
+        "request_type": "Benefits inquiry/change request",
+        "priority": "Normal Request"
+    },
+    {
+        "request_type": "Whistleblower report",
+        "priority": "Urgent"
+    },
+    {
+        "request_type": "Request for reference letter",
+        "priority": "Normal Request"
+    },
+    {
+        "request_type": "Suggestion for process improvement",
+        "priority": "Normal Request"
+    }
+]

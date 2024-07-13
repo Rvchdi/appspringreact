@@ -1,0 +1,11 @@
+.font{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.bordered{
+
+    border: 0.5px solid #333333;
+    border-radius: 10px;
+}
+.colorful{
+    background-color: #2d669b;
+}
